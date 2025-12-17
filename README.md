@@ -36,9 +36,9 @@ icons/
 
 ### By Cloud Provider
 
-| Provider | Icons | Description |
-|----------|-------|-------------|
-| **Aviatrix** | Logo variants | Horizontal, stacked, gradient, flat, dark mode |
+| Provider | Icons |
+|----------|-------|
+| **Aviatrix** | Logo variants (horizontal, stacked, gradient, flat, dark mode) |
 | **AWS** | Cloud, VPC, Subnet, Gateway, VM, Transit/Spoke variants, NAT, TGW, FireNet |
 | **Azure** | Cloud, VNet, Subnet, Gateway, VM, Transit/Spoke variants |
 | **GCP** | Cloud, VPC, Subnet, Gateway, VM, Transit/Spoke variants |
