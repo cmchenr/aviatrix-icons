@@ -33,7 +33,6 @@ The icons in this pack are stylized artistic representations designed for use in
 - [Microsoft Trademark Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks)
 - [Google Brand Permissions](https://about.google/brand-resource-center/)
 - [Oracle Brand Guidelines](https://www.oracle.com/legal/trademarks.html)
-- [Alibaba Cloud Brand Guidelines](https://www.alibabacloud.com/trust-center/brand)
 - [HashiCorp Brand Guidelines](https://www.hashicorp.com/brand)
 
 ## Disclaimer
