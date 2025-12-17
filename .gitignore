@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon must end with two \r
+Icon
+
+# Archives
+*.zip
+
+# Temporary files
+temp/
+temp_*/
+*.tmp
