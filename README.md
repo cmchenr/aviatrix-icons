@@ -38,14 +38,14 @@ icons/
 
 | Provider | Icons |
 |----------|-------|
-| **Aviatrix** | Logo variants (horizontal, stacked, gradient, flat, dark mode) |
-| **AWS** | Cloud, VPC, Subnet, Gateway, VM, Transit/Spoke variants, NAT, TGW, FireNet |
-| **Azure** | Cloud, VNet, Subnet, Gateway, VM, Transit/Spoke variants |
-| **GCP** | Cloud, VPC, Subnet, Gateway, VM, Transit/Spoke variants |
-| **Oracle** | Cloud, VPC, Subnet, Gateway, VM, Transit/Spoke variants |
-| **Alibaba** | Cloud, VPC, Subnet, Gateway, VM, Transit/Spoke variants |
-| **Edge** | Site, Network, Gateway, Gateway Group, Transit/Spoke variants |
-| **Misc** | Multi-Cloud, Equinix, Megaport, Palo Alto, Terraform, FireNet |
+| **Aviatrix** | Logo mark (gradient, flat, white) |
+| **AWS** | VPC, Subnet, Gateway, VM, Transit/Spoke variants, NAT, TGW, FireNet |
+| **Azure** | VNet, Subnet, Gateway, VM, Transit/Spoke variants |
+| **GCP** | VPC, Subnet, Gateway, VM, Transit/Spoke variants |
+| **Oracle** | VPC, Subnet, Gateway, VM, Transit/Spoke variants |
+| **Alibaba** | VPC, Subnet, Gateway, VM, Transit/Spoke variants |
+| **Edge** | Cloud, Site, Network, Gateway, Gateway Group, Transit/Spoke variants |
+| **Misc** | Multi-Cloud, FireNet, External |
 
 ### Common Resource Types
 
@@ -93,13 +93,11 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting new icons or
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Important:** The MIT license applies to the original artwork created by Aviatrix. Third-party trademarks (cloud provider logos, partner logos) remain the property of their respective owners. See [TRADEMARKS.md](TRADEMARKS.md) for details.
+**Important:** The MIT license applies to the original artwork created by Aviatrix. See [TRADEMARKS.md](TRADEMARKS.md) for trademark details.
 
 ## Trademark Notice
 
-This icon pack includes stylized representations of third-party cloud services. All third-party trademarks are the property of their respective owners (AWS, Microsoft, Google, Oracle, Alibaba, HashiCorp, etc.).
-
-These icons are intended for use in network architecture diagrams and technical documentation. Please review each provider's brand guidelines for your specific use case. See [TRADEMARKS.md](TRADEMARKS.md) for full details and links to brand guidelines.
+Aviatrix, the Aviatrix logo, and related marks are trademarks of Aviatrix Systems, Inc. See [TRADEMARKS.md](TRADEMARKS.md) for details.
 
 ---
 

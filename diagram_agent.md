@@ -13,8 +13,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 | Icon | Description | URL |
 |------|-------------|-----|
-| cloud | AWS Cloud logo | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/cloud.svg |
-| cloud-inverted | AWS Cloud (inverted colors) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/cloud-inverted.svg |
 | vpc | Virtual Private Cloud | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/vpc.svg |
 | subnet | Network Subnet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/subnet.svg |
 | gateway | Aviatrix Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/gateway.svg |
@@ -36,7 +34,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 | Icon | Description | URL |
 |------|-------------|-----|
-| cloud | Azure Cloud logo | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/azure/cloud.svg |
 | vnet | Virtual Network | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/azure/vnet.svg |
 | subnet | Network Subnet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/azure/subnet.svg |
 | gateway | Aviatrix Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/azure/gateway.svg |
@@ -55,9 +52,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 | Icon | Description | URL |
 |------|-------------|-----|
-| cloud | GCP Cloud icon | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/gcp/cloud.svg |
-| google | Google "G" logo | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/gcp/google.svg |
-| google-cloud | Google Cloud logo | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/gcp/google-cloud.svg |
 | vpc | Virtual Private Cloud | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/gcp/vpc.svg |
 | subnet | Network Subnet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/gcp/subnet.svg |
 | gateway | Aviatrix Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/gcp/gateway.svg |
@@ -76,7 +70,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 | Icon | Description | URL |
 |------|-------------|-----|
-| cloud | Oracle Cloud logo | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/oracle/cloud.svg |
 | vpc | Virtual Cloud Network | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/oracle/vpc.svg |
 | subnet | Network Subnet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/oracle/subnet.svg |
 | gateway | Aviatrix Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/oracle/gateway.svg |
@@ -95,7 +88,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 | Icon | Description | URL |
 |------|-------------|-----|
-| cloud | Alibaba Cloud logo | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/alibaba/cloud.svg |
 | vpc | Virtual Private Cloud | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/alibaba/vpc.svg |
 | subnet | Network Subnet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/alibaba/subnet.svg |
 | gateway | Aviatrix Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/alibaba/gateway.svg |
@@ -130,16 +122,12 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 ---
 
-## Misc (Partners & Utilities)
+## Misc (Utilities)
 
 | Icon | Description | URL |
 |------|-------------|-----|
 | multi-cloud | Multi-Cloud icon | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/multi-cloud.svg |
 | firenet | FireNet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/firenet.svg |
-| terraform | Terraform | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/terraform.svg |
-| equinix | Equinix | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/equinix.svg |
-| megaport | Megaport | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/megaport.svg |
-| palo-alto | Palo Alto Networks | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/palo-alto.svg |
 | external | External connection | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/external.svg |
 | external-connection | External connection (alt) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/misc/external-connection.svg |
 
@@ -152,16 +140,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 | gradient | Logo mark (gradient) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/gradient.svg |
 | flat | Logo mark (flat orange) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/flat.svg |
 | white | Logo mark (white) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/white.svg |
-| horizontal-gradient | Horizontal logo (gradient) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/horizontal-gradient.svg |
-| horizontal-gradient-dark | Horizontal logo (gradient, dark bg) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/horizontal-gradient-dark.svg |
-| horizontal-flat | Horizontal logo (flat) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/horizontal-flat.svg |
-| horizontal-flat-dark | Horizontal logo (flat, dark bg) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/horizontal-flat-dark.svg |
-| horizontal-white-dark | Horizontal logo (white, dark bg) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/horizontal-white-dark.svg |
-| stacked-gradient | Stacked logo (gradient) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/stacked-gradient.svg |
-| stacked-gradient-dark | Stacked logo (gradient, dark bg) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/stacked-gradient-dark.svg |
-| stacked-flat | Stacked logo (flat) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/stacked-flat.svg |
-| stacked-flat-dark | Stacked logo (flat, dark bg) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/stacked-flat-dark.svg |
-| stacked-white-dark | Stacked logo (white, dark bg) | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aviatrix/logo/stacked-white-dark.svg |
 
 ---
 
@@ -169,7 +147,6 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 
 ### By Cloud Provider
 - Use the appropriate cloud provider folder (aws, azure, gcp, oracle, alibaba) for provider-specific resources
-- Use `cloud` icon to represent the cloud provider itself
 - Use `edge` for on-premises, hybrid, or edge deployments
 
 ### By Resource Type
@@ -188,6 +165,5 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 - **NAT**: Network address translation (AWS)
 - **TGW**: AWS Transit Gateway integration
 
-### Multi-Cloud & Partners
+### Multi-Cloud
 - Use `misc/multi-cloud` for diagrams spanning multiple providers
-- Use partner icons (equinix, megaport, palo-alto, terraform) where applicable
