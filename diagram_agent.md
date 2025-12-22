@@ -24,6 +24,7 @@ https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/
 | nat | NAT Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/nat.svg |
 | tgw | AWS Transit Gateway | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/tgw.svg |
 | firenet | FireNet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/firenet.svg |
+| site-to-site-vpn | Site-to-Site VPN | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/site-to-site-vpn.svg |
 | unmanaged-vpc | Unmanaged VPC | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/unmanaged-vpc.svg |
 | unmanaged-subnet | Unmanaged Subnet | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/unmanaged-subnet.svg |
 | unmanaged-vm | Unmanaged VM | https://raw.githubusercontent.com/cmchenr/aviatrix-icons/main/icons/aws/unmanaged-vm.svg |
